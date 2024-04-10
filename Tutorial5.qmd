@@ -1,3 +1,7 @@
-Title: Learning to merge
-Author: [Rowshni]
-Date: April 10, 2024
+---
+title: Learning to merge
+author: Rowshni
+date: April 10, 2024
+format:
+  html: default
+---
